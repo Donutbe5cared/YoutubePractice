@@ -1,0 +1,153 @@
+
+  .Uber {
+    background-color: black;
+    color: white;
+    font-size: 11px;
+    cursor: pointer;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    vertical-align: top;
+  }
+
+  .Uber:hover {
+    opacity: 0.8;
+  }
+
+  .Amazon {
+    background-color: rgb(255,216,20);
+    border-color: rgb(255,216,20);
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-style: solid;
+    border-radius: 20px;
+    margin-left: 8px;
+    margin-right: 8px;
+    cursor: pointer;
+    vertical-align: top;
+  }
+
+  .Amazon:hover {
+    background-color: rgb(218, 168, 3);
+    border-color: rgb(218, 168, 3);
+  }
+
+  .GitHub {
+    color: white;
+    background-color: rgb(46,164,79);
+    font-weight: bold;
+    border-color: rgb(46,164,79);
+    border-radius: 3px;
+    border-style: solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-right: 8px;
+    transition: box-shadow 0.15s;
+    cursor: pointer;
+    vertical-align: top;
+  }
+
+  .GitHub:hover {
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.10);
+  }
+
+  .Bootstrap {
+    background-color: rgb(121,82,179);
+    color: white;
+    border-color: rgb(121,82,179);
+    border-radius: 3px;
+    font-weight: bold;
+    border-style: solid;
+    font-size: 11px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    transition: background-color 0.15s;
+    transition: border-color 0.15s;
+    cursor: pointer;
+    vertical-align: top;
+  }
+  .Bootstrap:hover {
+    background-color: rgb(99, 65, 150);
+    border-color: rgb(99, 65, 150);
+  }
+
+  .Download {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 3px;
+    font-weight: bold;
+    border-style: solid;
+    font-size: 11px;
+    margin-left: 8px;
+    margin-top: 8px;
+    border-color: rgb(108,117,125);
+    color: rgb(108,117,125);
+    background-color: white;
+    cursor: pointer;
+    vertical-align: top;
+
+    transition: background-color 0.15s;
+    transition: color 0.15s;
+  }
+
+  .Download:hover {
+    color: white;
+    background-color: rgb(108, 117, 125);
+  }
+
+  .LinkedIn {
+    background-color: rgb(10,102,194);
+    border-color: rgb(10,102,194);
+    color: white;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-style: solid;
+    border-radius: 20px;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-top: 8px;
+    cursor: pointer;
+  
+
+    transition: background-color 0.15s;
+    transition: border-color 0.15s;
+  }
+
+  .LinkedIn:hover {
+    background-color: rgb(10, 59, 194);
+    border-color: rgb(10, 59, 194);
+  }
+
+  .Save {
+    background-color: white;
+    border-color: rgb(10,102,194);
+    color: rgb(10,102,194);
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 1px;
+    font-weight: bold;
+    transition: background-color 0.15s;
+    cursor: pointer;
+  }
+
+  .Save:hover {
+    background-color: rgb(192, 223, 236);
+    border-width: 2px;
+  }
